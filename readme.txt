@@ -1,0 +1,1 @@
+This repositary will be filled with  traditional data science model coded from scratch without using any prebuilt pakages
